@@ -31,7 +31,7 @@ export type BotProps = {
     fontSize?: number
 }
 
-const defaultWelcomeMessage = 'Selam ben SkyBot. Sana nasıl yardımcı olabilirim?'
+const defaultWelcomeMessage = 'Selam ben SkyBot, Sana nasıl yardımcı olabilirim?'
 
 /*const sourceDocuments = [
     {
